@@ -1,0 +1,10 @@
+.user-modal {
+    max-height: 500px;
+    .ant-mdal-close:hover {
+        color: red;
+    }
+}
+.ant-modal-title {
+    text-align: center;
+    color: '#3385ff';
+}
